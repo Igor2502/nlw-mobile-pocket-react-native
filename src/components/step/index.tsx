@@ -2,7 +2,6 @@ import { colors, fontFamily } from "@/styles/theme";
 import { Text, View } from "react-native";
 import { s } from "./style";
 import { IconProps } from "@tabler/icons-react-native"
-import React from "react";
 
 type Props = {
   title: string;
