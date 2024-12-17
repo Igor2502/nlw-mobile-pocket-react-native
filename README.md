@@ -17,6 +17,7 @@ Indice do repositório
 Para uma execução correta do projeto certifique-se de que seu ambiente de desenvolvimento contenha:
   - [NodeJs](https://nodejs.org/en) v22.11.0 ou superior.
   - [Expo](https://expo.dev/tools#cli) v52.0.18 ou superior.
+  - [Nearby - API](https://github.com/Igor2502/nearby-api)
 
 ## Instalação
 Após clonar o projeto é necessário seguir os seguintes passos:
